@@ -1,5 +1,7 @@
 ## *San Diego County 2021 Automobile Accidents*
 
+**View the HTML here:** https://connormcmanigal.github.io/SanDiegoAutoAccidents2021/
+
 **Questions**:
 1. Based on the 2021 accident records in San Diego County, which day and month have the most accidents?
 
