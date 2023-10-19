@@ -15,6 +15,5 @@
 **Key findings**:
 - Through looking at the frequency of accidents at a monthly and seasonal basis, we cannot mathematically state that driving in fair weather in December will lead to an accident in any city in the US. However, while looking at visual plots and our linear regression model in San Diego for the year 2021, we can see that there is a significant increase in accidents during the winter seasons - particularly for the month of December. In terms of weather conditions, we’ve found that accidents generally happen in fair weather, but there is still a significant number of dates with a high count of total daily accidents that occur in stormy or foggy weather as well. In conclusion, there is an increasing trend of accidents as we taper towards the end of the year and approach the Fall and Winter seasons, and especially peak holiday season in December.
 
-**Links**:
-- *Link to Original Data*: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents 
-- *Link to Presentation Video*: https://youtu.be/AcmfdMPURdo
+
+*Link to Original Data*: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents 
